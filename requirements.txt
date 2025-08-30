@@ -1,0 +1,18 @@
+# This file ensures pip installs the correct GPU-enabled PyTorch build
+--index-url https://download.pytorch.org/whl/cu121
+
+# PyTorch for NVIDIA GPU (CUDA 12.1)
+torch==2.3.1
+torchvision==0.18.1
+torchaudio==2.3.1
+
+# Project Libraries
+pandas==2.2.2
+openpyxl==3.1.5
+matplotlib==3.9.1
+scikit-learn==1.5.1
+numpy==2.0.0
+
+
+#paste the next line in the terminal to install the requirements remove "#"
+#  pip install -r requirements.txt
