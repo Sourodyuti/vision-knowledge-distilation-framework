@@ -1,4 +1,4 @@
-# DistillKit: A PyTorch Knowledge Distillation Research Harness
+# A PyTorch Knowledge Distillation Research Harness
 
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch)
